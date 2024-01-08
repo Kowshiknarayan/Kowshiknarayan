@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kowshiknarayan
 - 👀 I’m interested in full stack development 
 - 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on real world projects
 - 📫 How to reach me www.linkedin.com/in/kowshiknarayan04/
 
 <!---
